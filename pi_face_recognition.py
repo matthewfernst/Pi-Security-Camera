@@ -11,7 +11,6 @@ import pickle
 import time
 import cv2
 
-# changing stuff
 import os
 import smtplib
 import numpy as np
@@ -21,13 +20,13 @@ from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 
 # Email you want to send the update from (only works with gmail)
-fromEmail = 'teammclaren370@gmail.com'
+fromEmail = 'your_example@gmail.com'
 # You can generate an app password here to avoid storing your password in plain text
 # https://support.google.com/accounts/answer/185833?hl=en
-fromEmailPassword = 'TeamMclaren370'
+fromEmailPassword = 'Password'
 
 # Email you want to send the update to
-toEmail = 'teammclaren370@gmail.com'
+toEmail = 'your_example@gmail.com'
 email_interval = 300
 last_epoch = 0
 def sendEmail():
