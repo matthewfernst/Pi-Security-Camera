@@ -4,6 +4,8 @@
 The Raspberry Pi Security Camera that notifies of intruders is a camera built from a Raspberry Pi 3, that is able to distinguish between certain people and objects through machine-learning. If a non-user enters the camera's field of view, an email notification is sent alerting the user. Attached to the email is a picture of what the camera picked up.
 
 ## Example Output
+Here is an example of Ian Malcom from Jurassic Park being recognized by the security as well as an email example.
+ ![Camera Example](./README_Examples/Ian_Malcom_Example.png)
 
 ## Hardware
 The hardware used for this project are listed below.
