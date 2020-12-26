@@ -1,3 +1,1 @@
-Your security camera has detected an unknown person in its view.
-
-- Team McLaren
+"Enter your personal security message here"
