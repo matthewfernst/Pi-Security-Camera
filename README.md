@@ -11,7 +11,7 @@ Here is an example of Ian Malcom from Jurassic Park being recognized by the secu
 The hardware used for this project are listed below.
 - Raspberry Pi 3
 - Raspberry Pi Camera Module V2 (8MP)
-- PI Noir Camera Module V2 (8MP)
+- PI Noir Camera Module V2 (8MP) (Optional Night Vision)
 
 ## Installation
 
