@@ -1,4 +1,4 @@
-# RaspberryPi-Security-Camera
+# Pi-Security-Camera
 
 ## About Project
 The Raspberry Pi Security Camera that notifies of intruders is a camera built from a Raspberry Pi 3, that is able to distinguish between certain people and objects through machine-learning. If a non-user enters the camera's field of view, an email notification is sent alerting the user. Attached to the email is a picture of what the camera picked up.
